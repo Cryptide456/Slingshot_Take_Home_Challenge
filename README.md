@@ -4,4 +4,4 @@ The following project I have built uses my web development skills as well as the
 
 Option 1: In order to use the application, all you have to do is download the files and open them in and IDE of your choice. The one I used and prefer is Visual Studio Code. Any IDE is fine as long as it supports HTML, CSS, and Javascript. When you run the application, a prompt will pop up asking you to add a word to the trie. You can input up to 6 words. Once all the words of have been added to the trie, they will be displayed in a list format with a search bar in order to search through the trie. When you refresh the page, the trie will clear and you will again be prompted to input words for the trie. This time you can enter new words that will be stored in the trie.
 
-Option 2: You can also access this application using the following link: 
+Option 2: You can also access this application using the following link: https://cryptide456.github.io/Slingshot_Take_Home_Challenge/
