@@ -6,4 +6,4 @@ Option 1: In order to use the application, all you have to do is download the fi
 
 Option 2: You can automatically run this application which is hosted online using the following link: https://cryptide456.github.io/Slingshot_Take_Home_Challenge/
 
-Resources used: Some of the resources I used include a mixture of google and stackoverflow in order to better understand what a Trie is and the functionality of a Trie.
+Resources used: Some of the resources I used include a mixture of google and stackoverflow in order to better understand what a Trie is and the functionality of a Trie. Boostrap was used for the front end of the application in order to make it look more user friendly.
